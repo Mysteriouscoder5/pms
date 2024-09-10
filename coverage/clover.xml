@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1725968629692" clover="3.2.0">
+  <project timestamp="1725968629692" name="All files">
+    <metrics statements="212" coveredstatements="86" conditionals="105" coveredconditionals="28" methods="69" coveredmethods="29" elements="386" coveredelements="143" complexity="0" loc="212" ncloc="212" packages="12" files="25" classes="25"/>
+    <package name="pms">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="tamagui.config.ts" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\tamagui.config.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="pms.app">
+      <metrics statements="13" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="+html.tsx" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\app\+html.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+      </file>
+      <file name="+not-found.tsx" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\app\+not-found.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="_layout.tsx" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\app\_layout.tsx">
+        <metrics statements="9" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pms.app.(tabs)">
+      <metrics statements="58" coveredstatements="38" conditionals="29" coveredconditionals="11" methods="22" coveredmethods="13"/>
+      <file name="ParkYourVehicle.tsx" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\app\(tabs)\ParkYourVehicle.tsx">
+        <metrics statements="41" coveredstatements="28" conditionals="11" coveredconditionals="2" methods="14" coveredmethods="9"/>
+        <line num="39" count="13" type="stmt"/>
+        <line num="41" count="13" type="stmt"/>
+        <line num="42" count="13" type="stmt"/>
+        <line num="52" count="15" type="stmt"/>
+        <line num="53" count="15" type="stmt"/>
+        <line num="54" count="15" type="stmt"/>
+        <line num="58" count="14" type="cond" truecount="1" falsecount="1"/>
+        <line num="59" count="14" type="stmt"/>
+        <line num="62" count="13" type="stmt"/>
+        <line num="63" count="16" type="stmt"/>
+        <line num="64" count="16" type="stmt"/>
+        <line num="65" count="16" type="stmt"/>
+        <line num="66" count="16" type="stmt"/>
+        <line num="68" count="16" type="stmt"/>
+        <line num="69" count="16" type="stmt"/>
+        <line num="71" count="13" type="stmt"/>
+        <line num="72" count="16" type="stmt"/>
+        <line num="73" count="16" type="stmt"/>
+        <line num="74" count="16" type="stmt"/>
+        <line num="75" count="16" type="stmt"/>
+        <line num="76" count="16" type="stmt"/>
+        <line num="79" count="13" type="stmt"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="83" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="98" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="103" count="0" type="stmt"/>
+        <line num="106" count="0" type="stmt"/>
+        <line num="108" count="0" type="stmt"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="122" count="0" type="stmt"/>
+        <line num="131" count="37" type="stmt"/>
+        <line num="132" count="37" type="stmt"/>
+        <line num="135" count="0" type="stmt"/>
+        <line num="168" count="1" type="stmt"/>
+        <line num="182" count="2" type="stmt"/>
+        <line num="196" count="2" type="stmt"/>
+        <line num="209" count="0" type="stmt"/>
+        <line num="225" count="1" type="stmt"/>
+      </file>
+      <file name="_layout.tsx" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\app\(tabs)\_layout.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="39" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="index.tsx" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\app\(tabs)\index.tsx">
+        <metrics statements="13" coveredstatements="10" conditionals="12" coveredconditionals="9" methods="5" coveredmethods="4"/>
+        <line num="31" count="3" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="33" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="41" count="3" type="stmt"/>
+        <line num="42" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="54" count="6" type="stmt"/>
+        <line num="55" count="6" type="stmt"/>
+        <line num="69" count="30" type="stmt"/>
+        <line num="124" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pms.components">
+      <metrics statements="52" coveredstatements="11" conditionals="35" coveredconditionals="2" methods="17" coveredmethods="5"/>
+      <file name="Collapsible.tsx" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\components\Collapsible.tsx">
+        <metrics statements="5" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+      </file>
+      <file name="ExternalLink.tsx" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\components\ExternalLink.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+      </file>
+      <file name="HelloWave.tsx" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\components\HelloWave.tsx">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+      </file>
+      <file name="ParallaxScrollView.tsx" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\components\ParallaxScrollView.tsx">
+        <metrics statements="8" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+      </file>
+      <file name="ParkedVehicle.tsx" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\components\ParkedVehicle.tsx">
+        <metrics statements="25" coveredstatements="11" conditionals="12" coveredconditionals="2" methods="6" coveredmethods="5"/>
+        <line num="28" count="4" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="37" count="4" type="stmt"/>
+        <line num="38" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="39" count="4" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="68" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="79" count="4" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="85" count="4" type="stmt"/>
+        <line num="87" count="4" type="stmt"/>
+        <line num="147" count="1" type="stmt"/>
+      </file>
+      <file name="ThemedText.tsx" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\components\ThemedText.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="11" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+      </file>
+      <file name="ThemedView.tsx" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\components\ThemedView.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pms.components.navigation">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="TabBarIcon.tsx" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\components\navigation\TabBarIcon.tsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pms.constants">
+      <metrics statements="9" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="Colors.ts" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\constants\Colors.ts">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+      </file>
+      <file name="Theme.ts" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\constants\Theme.ts">
+        <metrics statements="6" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pms.hooks">
+      <metrics statements="6" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="useColorScheme.ts" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\hooks\useColorScheme.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="useColorScheme.web.ts" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\hooks\useColorScheme.web.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+      <file name="useThemeColor.ts" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\hooks\useThemeColor.ts">
+        <metrics statements="5" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pms.libs">
+      <metrics statements="6" coveredstatements="6" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3"/>
+      <file name="data.ts" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\libs\data.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3"/>
+        <line num="13" count="20" type="stmt"/>
+        <line num="14" count="20" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="20" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pms.redux">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="store.ts" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\redux\store.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="23" type="stmt"/>
+        <line num="21" count="23" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="pms.redux.reducers">
+      <metrics statements="25" coveredstatements="11" conditionals="8" coveredconditionals="1" methods="10" coveredmethods="4"/>
+      <file name="lotsReducer.ts" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\redux\reducers\lotsReducer.ts">
+        <metrics statements="25" coveredstatements="11" conditionals="8" coveredconditionals="1" methods="10" coveredmethods="4"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="26" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="59" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="71" count="3" type="stmt"/>
+        <line num="72" count="60" type="stmt"/>
+        <line num="81" count="3" type="stmt"/>
+        <line num="83" count="3" type="stmt"/>
+        <line num="84" count="3" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="87" count="23" type="stmt"/>
+        <line num="94" count="3" type="stmt"/>
+        <line num="99" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="pms.scripts">
+      <metrics statements="26" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="reset-project.js" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\scripts\reset-project.js">
+        <metrics statements="26" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="59" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pms.utils">
+      <metrics statements="5" coveredstatements="5" conditionals="5" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <file name="test-utils.tsx" path="C:\Users\Admin\OneDrive\Desktop\Qubited\pms\utils\test-utils.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="5" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="36" count="20" type="stmt"/>
+        <line num="38" count="20" type="stmt"/>
+        <line num="39" count="20" type="stmt"/>
+        <line num="41" count="20" type="stmt"/>
+        <line num="57" count="20" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
